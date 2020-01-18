@@ -2,5 +2,9 @@
 
 
 
+2. If the tableau detects wrong data types can I change them manually?
+3. Also does it use internet to know if the given field is a location?
+4. 
+
 
 
