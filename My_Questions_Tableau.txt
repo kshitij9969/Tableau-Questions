@@ -4,7 +4,14 @@
 
 2. If the tableau detects wrong data types can I change them manually?
 3. Also does it use internet to know if the given field is a location?
-4. 
+4. Type of connection is not visible in my tableau
+5. Less options in tableau public file menu?
+6. Does refresh data mean that the tableau syncs with the data source? or does it mean that it just refreshes the data already read? And does it change with the type of connection?
+7. Try to do the same thing which you do using filters, using pages
+8. Is the color selection specific to the sheet being used?
+9. What is a logarithmic scale?
+10. Does editing the axis name also change the field name in the source file? or is it just mapping the new and old names?
+11. 
 
 
 
